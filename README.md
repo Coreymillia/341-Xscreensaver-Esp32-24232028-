@@ -303,7 +303,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### **Attribution:**
 - Original XScreensaver effects by Jamie Zawinski and contributors
-- ESP32 implementation and optimizations by [Your Name]
+- ESP32 implementation and optimizations by Coreymillia
 - Built with PlatformIO and Arduino ESP32 framework
 
 ## 🙏 **Acknowledgments**
@@ -344,8 +344,8 @@ Whether you're a maker, educator, artist, or embedded systems enthusiast, this c
 
 ### 📧 **Support & Contact**
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/esp32-screensaver/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/esp32-screensaver/discussions)  
-- **Email**: your.email@domain.com
+- **Issues**: Do not contact me for help. 
+- **Discussions**: 
+- **Email**: Feel free to contact about anything... except help. coreymillia@gmail.com
 
 **Happy coding and enjoy the visual feast!** 🚀🎨
