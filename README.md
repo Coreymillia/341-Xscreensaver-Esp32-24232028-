@@ -5,7 +5,7 @@
 [![PlatformIO](https://img.shields.io/badge/Built%20with-PlatformIO-orange.svg)](https://platformio.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **The most comprehensive screensaver collection ever created for embedded hardware!**
+> **The most comprehensive screensaver collection ever created for embedded hardware!** at least... that I know of. 
 
 ## 🌟 **Project Overview**
 
@@ -308,7 +308,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 **Acknowledgments**
 
-- **Jamie Zawinski** and the XScreensaver project for the original effect algorithms
+- This project ports effects originally from XScreensaver by Jamie Zawinski and contributors. The XScreensaver license permits modification and distribution for non-Windows platforms.
+
+Original XScreensaver: https://www.jwz.org/xscreensaver/
+License: MIT-compatible (no Windows restriction clause applies)
+
+
 - **ESP32 community** for excellent hardware and development tools
 - **PlatformIO team** for the outstanding development platform
 - **Arduino ESP32** developers for the robust framework
