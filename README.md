@@ -338,6 +338,13 @@ This project represents the culmination of embedded graphics programming - **341
 
 Whether you're a maker, educator, artist, or embedded systems enthusiast, this collection offers endless possibilities for learning, inspiration, and pure visual enjoyment.
 
+I originally started with 400 then 490 .c files to convert. When I first started the project we maxed out the memory pretty fast. The screensavers did not convert the exact same every time I would convert them. We were mostly focusing on the 2d effects, however some of the 3d effects got converted as well. So I hardly believe these look much like they should. With that being said. One of these days I am going to build the real Xscreensavers on this pi. To see what they are supposed to look like. Maybe. I may just make something that is easier to run using the source. It was a pretty intense project for myself. I learn by error only it would seem. 
+
+I may or may not come back to try to tune them up. 
+
+So with that being said many may not look like they should. 
+But it came out pretty cool either way. 
+
 **Welcome to the ESP32 Screensaver Universe - where 341 effects come to life!** 🎆✨
 
 ---
@@ -345,7 +352,7 @@ Whether you're a maker, educator, artist, or embedded systems enthusiast, this c
 ### 📧 **Support & Contact**
 
 - **Issues**: Do not contact me for help. 
-- **Discussions**: 
+- **Discussions**: among yourself. 
 - **Email**: Feel free to contact about anything... except help. coreymillia@gmail.com
 
 **Happy coding and enjoy the visual feast!** 🚀🎨
